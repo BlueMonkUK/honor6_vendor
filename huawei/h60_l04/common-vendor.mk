@@ -13,7 +13,7 @@
 # limitations under the License.
 
 # Pick up overlay for features that depend on non-open-source files
-DEVICE_PACKAGE_OVERLAYS += vendor/huawei/h60-common/overlay
+DEVICE_PACKAGE_OVERLAYS += vendor/huawei/h60_l04/overlay
 
-$(call inherit-product, vendor/huawei/h60-common/common-vendor-blobs.mk)
+$(call inherit-product, vendor/huawei/h60_l04/common-vendor-blobs.mk)
 

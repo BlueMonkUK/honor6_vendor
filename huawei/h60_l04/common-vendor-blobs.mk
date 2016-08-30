@@ -12,7 +12,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-LOCAL_PATH := vendor/huawei/h60-common
+LOCAL_PATH := vendor/huawei/h60_l04
 
 PRODUCT_PACKAGES += \
 	libion.huawei \
